@@ -1,4 +1,4 @@
-# Scripts de Suporte Técnico e Help Desk 🛠️
+# Scripts de Suporte Técnico e Help Desk 
 
 Este repositório contém scripts desenvolvidos para automatizar rotinas diárias de analistas de Suporte Técnico (Help Desk Nível 1 e 2), focando na otimização de tempo e na resolução rápida de problemas comuns no sistema operacional Windows.
 
